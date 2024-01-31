@@ -25,8 +25,8 @@ st.set_page_config(page_title="M.IA", page_icon="📈")
 st.header("Asistente de Marketing (becario)")
 
 strategy_values = {
-    "Planificar algo": "plan-and-solve",
-    "Solucionar un problema": "plan-and-solve",
+    "Pedirle cosas": "plan-and-solve",
+    "Intentar que solucione un problema": "plan-and-solve",
     "Voy a tener suerte": "zero-shot-react"
 }
 
